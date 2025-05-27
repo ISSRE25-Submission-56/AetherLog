@@ -64,9 +64,9 @@ If you find AetherLog useful for your research, please cite the paper:
 
 ```bibtex
 @article{aetherlog2025,
-  title={AetherLog: Bridging Structured Knowledge Graph and Large Language Model for Fault Root Cause Analysis in Logs},
+  title={AetherLog: Bridging Knowledge Graph and Large Language Model for Fault Root Cause Analysis in Logs},
   author={...},
-  journal={Proceedings of ISSRE},
+  journal={International Symposium on Software Reliability Engineering.},
   year={2025}
 }
 ```
