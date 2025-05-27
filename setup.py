@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 setup(
     name='AetherLog',
     version='0.1.0',
-    description='AetherLog: LLM-KG Synergistic Framework for Log-based Root Cause Analysis',
-    author='AetherLog Authors',
-    author_email='contact@example.com',
+    description='AetherLog: Bridging Knowledge Graph and Large Language Model for Fault Root Cause Analysis in Logs',
+    author=' ',
+    author_email=' ',
     url='https://github.com/ISSRE25-Submission-56/AetherLog',
     packages=find_packages(),
     install_requires=[
