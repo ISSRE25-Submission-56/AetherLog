@@ -1,5 +1,5 @@
 # ----- General -----
-project_name: SmartRCA
+project_name: AetherLog
 random_seed: 42
 log_level: INFO
 output_dir: outputs/
